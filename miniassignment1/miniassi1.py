@@ -52,7 +52,7 @@ obj2 = PairsPossible(value1)
 list1=obj2.pairs()
 print("Possible Pairs of String1 are: ")
 print(list1)
-print("----------------------------------------")
+print("------------------------------------------")
 
 value2 = input("Enter String2: ")
 obj3 = PairsPossible(value2)
